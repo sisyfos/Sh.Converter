@@ -1,0 +1,71 @@
+P|Victoria|Bernadotte
+T|070-0101010|0459-123456
+A|Haga Slott|Stockholm|101
+F|Estelle|2012
+A|Solliden|Öland|10002
+F|Oscar|2016
+T|0702-020202|02-202020
+
+P|Alexander|Gustafsson
+T|070-0303030|0459-654321
+A|Drottningholm Palace|Stockholm|102
+F|Leonore|2014
+A|Rosendal Palace|Stockholm|10003
+F|Nicolas|2015
+T|0703-040404|03-303030
+
+P|Sofia|Hellqvist
+T|070-0505050|0459-789012
+A|Ulriksdal Palace|Stockholm|103
+F|Gabriel|2017
+A|Gripsholm Castle|Mariefred|10004
+F|Julian|2021
+T|0704-060606|04-404040
+
+P|Carl|Philip
+T|070-0707070|0459-345678
+A|Rosersberg Palace|Stockholm|104
+F|Alexander|2016
+A|Tullgarn Palace|Södertälje|10005
+F|Gabriel|2017
+T|0705-080808|05-505050
+
+P|Madeleine|Bernadotte
+T|070-0909090|0459-901234
+A|Haga Palace|Stockholm|105
+F|Leonore|2014
+A|Solliden Palace|Öland|10006
+F|Nicolas|2015
+T|0706-101010|06-606060
+
+P|Daniel|Westling
+T|070-1313131|0459-234567
+A|Ulriksdal Palace|Stockholm|107
+F|Estelle|2012
+A|Gripsholm Castle|Mariefred|10008
+F|Oscar|2016
+T|0708-141414|08-808080
+
+P|Silvia|Sommerlath
+T|070-1515151|0459-876543
+A|Rosersberg Palace|Stockholm|108
+F|Victoria|1977
+A|Tullgarn Palace|Södertälje|10009
+F|Carl Philip|1979
+T|0709-161616|09-909090
+
+P|Carl|Gustaf
+T|070-1717171|0459-543210
+A|Haga Palace|Stockholm|109
+F|Victoria|1977
+A|Solliden Palace|Öland|10010
+F|Carl Philip|1979
+T|0710-181818|10-101010
+
+P|Oscar|Bernadotte
+T|070-1919191|0459-210987
+A|Drottningholm Palace|Stockholm|110
+F|Estelle|2012
+A|Rosendal Palace|Stockholm|10011
+F|Oscar|2016
+T|0711-202020|11-111111
