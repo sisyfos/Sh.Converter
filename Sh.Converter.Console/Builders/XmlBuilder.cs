@@ -1,10 +1,10 @@
-﻿namespace Sh.Converter.ConsoleApp.Extensions
+﻿namespace Sh.Converter.ConsoleApp.Builders
 {
     using Sh.Converter.ConsoleApp.Models;
     using System.Collections.Generic;
     using System.Xml.Linq;
 
-    static class XmlBuilder
+    public static class XmlBuilder
     {
         /// <summary>
         /// Creates XML elements from a tuple containing nodes and edges.

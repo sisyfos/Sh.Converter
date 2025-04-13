@@ -1,7 +1,7 @@
-﻿using Sh.Converter.ConsoleApp.Models;
-
-namespace Sh.Converter.ConsoleApp.Options
+﻿namespace Sh.Converter.ConsoleApp.Options
 {
+    using Sh.Converter.ConsoleApp.Models;
+
     class RelationOptions
     {
         public const string Relation = nameof(Relation);

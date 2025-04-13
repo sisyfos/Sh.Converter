@@ -1,6 +1,6 @@
 ﻿namespace Sh.Converter.ConsoleApp.Models
 {
-    class Relation
+    public class Relation
     {
         public bool IsRoot { get; set; }
         public required string Designator { get; set; }

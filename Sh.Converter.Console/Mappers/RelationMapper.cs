@@ -2,7 +2,7 @@
 
 namespace Sh.Converter.ConsoleApp.Mappers
 {
-    class RelationMapper(Dictionary<string, Relation> relations)
+    public class RelationMapper(Dictionary<string, Relation> relations)
     {
         private const char IdSeparator = '_';
 

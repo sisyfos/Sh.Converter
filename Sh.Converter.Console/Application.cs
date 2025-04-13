@@ -1,14 +1,13 @@
-﻿using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
-using Microsoft.Extensions.Options;
-
-using Sh.Converter.ConsoleApp.Extensions;
-using Sh.Converter.ConsoleApp.Helpers;
-using Sh.Converter.ConsoleApp.Mappers;
-using Sh.Converter.ConsoleApp.Options;
-
-namespace Sh.Converter.ConsoleApp
+﻿namespace Sh.Converter.ConsoleApp
 {
+    using Microsoft.Extensions.Hosting;
+    using Microsoft.Extensions.Logging;
+    using Microsoft.Extensions.Options;
+    using Sh.Converter.ConsoleApp.Builders;
+    using Sh.Converter.ConsoleApp.Helpers;
+    using Sh.Converter.ConsoleApp.Mappers;
+    using Sh.Converter.ConsoleApp.Options;
+
     class Application(IOptions<SettingsOptions> settingsOptions, IOptions<RelationOptions> relationOptions, ILogger<Application> logger) : IHostedService
     {
         private readonly RelationMapper _relationMapper = new(relationOptions.Value.Relations.ToDictionary(x => x.Designator, x => x));
